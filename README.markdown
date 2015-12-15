@@ -395,4 +395,11 @@ let colour = "red"
 
 This style guide is a collaborative effort from the most stylish raywenderlich.com team members: 
 
-* [Ray Wenderlich](https://github.com/rwenderlich)
+* [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [Takeshi Kajino M](https://github.com/tak3mat3k)
+* [Jairo Miranda](http://youporn.com)
+* [Jonathan Pacheco](https://github.com/jpachecou)
+* [Daniel Mendez](https://github.com/nieldm)
+* [Tomas Murillo](https://github.com/murilloarturo)
+* [Guillermo Blanco]()
+
