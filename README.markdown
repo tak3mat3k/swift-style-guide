@@ -393,7 +393,7 @@ let colour = "red"
 
 ## Credits
 
-This style guide is a collaborative effort from the most stylish raywenderlich.com team members: 
+This style guide is a collaborative effort from the most stylish raywenderlich.com team members and the great iOS Team in http://www.grability.com/: 
 
 * [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [Takeshi Kajino M](https://github.com/tak3mat3k)
