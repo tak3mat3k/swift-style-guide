@@ -352,3 +352,47 @@ for var i = 0; i < attendeeList.count; i++ {
   println("\(person) is at position #\(i)")
 }
 ```
+
+## Semicolons
+
+Swift does not require a semicolon after each statement in your code. They are only required if you wish to combine multiple statements on a single line.
+
+Do not write multiple statements on a single line separated with semicolons.
+
+The only exception to this rule is the `for-conditional-increment` construct, which requires semicolons. However, alternative `for-in` constructs should be used where possible.
+
+**Preferred:**
+
+```swift
+let swift = "not a scripting language"
+```
+
+**Not Preferred:**
+
+```swift
+let swift = "not a scripting language";
+```
+
+**NOTE**: Swift is very different to JavaScript, where omitting semicolons is [generally considered unsafe](http://stackoverflow.com/questions/444080/do-you-recommend-using-semicolons-after-every-statement-in-javascript)
+
+## Language
+
+Use US English spelling to match Apple's API.
+
+**Preferred:**
+```swift
+let color = "red"
+```
+
+**Not Preferred:**
+```swift
+let colour = "red"
+```
+
+
+
+## Credits
+
+This style guide is a collaborative effort from the most stylish raywenderlich.com team members: 
+
+* [Ray Wenderlich](https://github.com/rwenderlich)
