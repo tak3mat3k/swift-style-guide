@@ -397,9 +397,9 @@ This style guide is a collaborative effort from the most stylish raywenderlich.c
 
 * [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [Takeshi Kajino M](https://github.com/tak3mat3k)
-* [Jairo Miranda](http://youporn.com)
+* Jairo Miranda
 * [Jonathan Pacheco](https://github.com/jpachecou)
 * [Daniel Mendez](https://github.com/nieldm)
-* [Tomas Murillo](https://github.com/murilloarturo)
-* [Guillermo Blanco]()
+* Tomas Murillo
+* Guillermo Blanco
 
